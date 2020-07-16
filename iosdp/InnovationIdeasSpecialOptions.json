@@ -1,0 +1,5 @@
+[
+  {"title": "Swarm Teams", "description": "Allow us to form small teams to tackle problems...", "is_draft": true, "submitted_by": "Kathy", "submitted_date": "2019-01-01"},
+  {"title": "Standing Desks For All", "description": "Purchase standing desks for all employees - people are more creative when standing!", "is_draft": false, "submitted_by": "John", "submitted_date": "2019-02-03"},
+  {"title": "Comfortable Chairs For All", "description": "Purchase comfortable chairs for all employees - people are more creative when sitting in a comfortable chair!", "is_draft": true, "submitted_by": "Josh", "submitted_date": "2019-02-05"}
+]
